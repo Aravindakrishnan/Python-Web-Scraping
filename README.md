@@ -5,7 +5,7 @@ Using BeautifulSoup and Urllib(Request)
 
       https://appdevelopermagazine.com/Programming  it will give top Programming Trending News   
 
-- 2. WeatherScraping.py file  is Scrapped from the website  
+-2.WeatherScraping.py file  is Scrapped from the website  
 
     http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid=f9e1aac3badf5babfd4604ef9a3f6611
    
